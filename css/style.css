@@ -1,0 +1,39 @@
+.btn-butt{
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+}
+.btn-butt:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+}
+.titre{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.titre2{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.gener{
+    color: gray;
+    border: none;
+    border-bottom: 2px gray solid !important;
+    margin: 10px;
+}
+.cont{
+    background-color: none;
+    color: gray;
+    border: none;
+    border-bottom: 2px gray solid !important;
+    margin: 50pxs;
+}
+input, select{
+    background-color: none;
+    margin: 10px;
+    border: none;
+    border-bottom: 2px gray solid !important;
+}
